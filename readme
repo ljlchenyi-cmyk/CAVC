@@ -1,0 +1,11 @@
+Due to the large size of the pretrained checkpoints, the complete package,
+including the source code and model checkpoints, is hosted on Baidu Netdisk.
+
+- Baidu Netdisk: [Download Link]
+- Extraction Code: [Code]
+
+This GitHub repository is maintained for documentation, updates, and version
+tracking. If you encounter any issues, please feel free to open an Issue.
+
+test:
+python Test_cavc.py 
